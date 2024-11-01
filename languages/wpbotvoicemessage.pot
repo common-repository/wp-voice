@@ -1,0 +1,1990 @@
+# Copyright (C) 2020 QCvoicemssg
+# This file is distributed under the same license as the QCvoicemssg package.
+msgid ""
+msgstr ""
+"Project-Id-Version: QCvoicemssg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: wp-content/plugins/wpvoicemessage/wpvoicemessage.php:461
+msgid "This plugin uses the Google Cloud Speech-to-Text API Key File. Set up your Google Cloud Platform project before the start."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:229
+msgid "Matching Method"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:231
+msgid "ALL"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:232
+msgid "ANY"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:234
+msgid "The plugin is enabled on the page if ALL the selected rules matched, or if ANY of the selected rules matched"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:239
+msgid "WordPress Content"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:242, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:265, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:275, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:305, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:333, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:359, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:382, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:405
+msgid "Ignore"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:243, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:266, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:276, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:306, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:334, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:360, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:383, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:406
+msgid "Include"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:244, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:267, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:277, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:307, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:335, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:361, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:384, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:407
+msgid "Exclude"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:249
+msgid "Select on what page types or categories the assignment should be active."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:262
+msgid "Home Page"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:273
+msgid "Menu Items"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:281
+msgid "Select the menu items to assign to."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:302
+msgid "Date & Time"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:319
+msgid "The date and time assignments use the date/time of your servers, not that of the visitors system."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:321
+msgid "Current date/time:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:330
+msgid "User Roles"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:339
+msgid "Select the user roles to assign to."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:356
+msgid "URL"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:366
+msgid "Enter (part of) the URLs to match."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:367
+msgid "Use a new line for each different match."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:379
+msgid "Devices"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:388
+msgid "Select the devices to assign to. Keep in mind that device detection is not always 100% accurate. Users can setup their device to mimic other devices."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:392
+msgid "Desktop"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:393
+msgid "Tablet"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:394
+msgid "Mobile"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:402
+msgid "Custom PHP"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:412
+msgid "Enter a piece of PHP code to evaluate. The code must return the value true or false."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/AssignmentsTab.php:414
+msgid "For instance:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:169, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:445
+msgid "Before Text:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:173
+msgid "Enter text before \"Start recording\" button or leave blank to do not use the field."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:190
+msgid "Start recording button:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:237
+msgid "Customize the Look & Feel of the \"Start recording\" button."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:269, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:502
+msgid "Button Margin"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:270, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:503
+msgid "Button margin: "
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:272, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:312, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:352, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:392, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:505, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:532, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:559, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:662, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:916
+msgid " px"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:309, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:661
+msgid "Size"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:310, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:662
+msgid "Icon/Caption size: "
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:349, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:529
+msgid "Button Padding"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:350, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:530
+msgid "Button padding: "
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:389
+msgid "Button Radius"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:390
+msgid "Button radius: "
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:432, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:581
+msgid "Select icon for button"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:467, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:554, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:797, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:831, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:936
+msgid "None"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:468
+msgid "Left"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:469
+msgid "Center"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:470
+msgid "Right"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:479
+msgid "Align"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:480
+msgid "Choose how to align the button and other form elements."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:510, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:605
+msgid "Hide"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:511, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:606
+msgid "Before"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:512, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:607
+msgid "After"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:513, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:608
+msgid "Above"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:514, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:609
+msgid "Bellow"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:523, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:616
+msgid "Icon Position"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:524
+msgid "Position of the icon inside the button"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:555, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:799, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:833, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:938
+msgid "Fade"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:556, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:798, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:832, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:937
+msgid "Bounce"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:557, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:800, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:834, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:939
+msgid "Flip X"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:558, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:801, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:835, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:940
+msgid "Flip Y"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:559, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:802, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:836, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:941
+msgid "Scale"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:560, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:803, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:837, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:947
+msgid "Wobble"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:561, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:804, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:838, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:946
+msgid "Rotate"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:570, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:845
+msgid "Hover animation"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:571, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:846
+msgid "Button hover animation"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:596, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageForm.php:502
+msgid "Record"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:605
+msgid "Caption"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:606
+msgid "Start record button caption"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:640, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:683
+msgid "Text Color"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:641, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:684
+msgid "Select icon and text color"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:676, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:705
+msgid "Text Hover Color"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:677, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:706
+msgid "Select icon and text hover color"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:712, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:727, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:888
+msgid "Background Color"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:713, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:728
+msgid "Select button background color"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:748, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:749
+msgid "Background Hover Color"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:749
+msgid "Select button background hover color"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:785, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:446
+msgid "After Text:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:789
+msgid "Enter text after \"Start recording\" button or leave blank to do not use the field."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:814
+msgid "Thank You Text:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:842
+msgid "Send Recording Text:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:870
+msgid "Speak Now Text:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:874, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:1002
+msgid "You can use special placeholders: {timer}, {max-duration}, {countdown}."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:912, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CROptionsMetaBox.php:262
+msgid "Additional fields:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:919
+msgid "Additional Fields"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CFOptionsMetaBox.php:927
+msgid "Show to user a small form after recording a voice message."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CheckCompatibility.php:220, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageForm.php:417, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageRecord.php:453, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:117, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:120
+msgid "QCvoicemssg"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CheckCompatibility.php:245
+msgid "The minimum PHP version required for QCvoicemssg plugin is 5.6.0."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageForm.php:92
+msgid "You can't delete the form used for the Floating Button."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageForm.php:137, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:202, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:571
+msgid "Floating Button"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageForm.php:164, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageForm.php:176, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageForm.php:330
+msgid "Copy to Clipboard"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageForm.php:209, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageForm.php:206
+msgid "New"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageForm.php:228, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageForm.php:225
+msgid "Total"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageForm.php:246, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageForm.php:290
+msgid "Shortcode"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageForm.php:247, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:583
+msgid "Messages"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageForm.php:287
+msgid " Form Options"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageForm.php:293
+msgid "Voice Messages"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageForm.php:309
+msgid "Messages: "
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageForm.php:401
+msgid "QCvoicemssg Forms"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageForm.php:402, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:446, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:434
+msgid "QCvoicemssg Form"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageForm.php:403, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageForm.php:404, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageRecord.php:439, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageRecord.php:440
+msgid "Add New"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageForm.php:405
+msgid "New QCvoicemssg Form"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageForm.php:406
+msgid "Edit QCvoicemssg Form"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageForm.php:407
+msgid "View QCvoicemssg Form"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageForm.php:408
+msgid "View QCvoicemssg Forms"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageForm.php:409
+msgid "Search QCvoicemssg Forms"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageForm.php:410
+msgid "No QCvoicemssg Forms found"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageForm.php:411
+msgid "No QCvoicemssg Forms found in Trash"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageForm.php:412
+msgid "Forms"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageForm.php:413
+msgid "QCvoicemssg Forms Archives"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageForm.php:414
+msgid "QCvoicemssg Form Attributes"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageForm.php:415
+msgid "Insert to QCvoicemssg Form"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageForm.php:416
+msgid "Uploaded to this QCvoicemssg Form"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageRecord.php:178
+msgid "Filter By Form"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageRecord.php:240
+msgid "Transcription"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageRecord.php:241
+msgid "Form"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageRecord.php:364
+msgid "Record Options"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageRecord.php:367
+msgid "Private Notes"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageRecord.php:370
+msgid "Form Settings"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageRecord.php:400
+msgid "Go to Form Settings"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageRecord.php:437, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageRecord.php:438
+msgid "QCvoicemssg Records"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageRecord.php:441
+msgid "New QCvoicemssg Record"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageRecord.php:442
+msgid "Edit QCvoicemssg Record"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageRecord.php:443, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageRecord.php:444
+msgid "View QCvoicemssg Record"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageRecord.php:445
+msgid "Search QCvoicemssg Records"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageRecord.php:446
+msgid "No QCvoicemssg Records found"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageRecord.php:447
+msgid "No QCvoicemssg Records found in Trash"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageRecord.php:448
+msgid "Records"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageRecord.php:449
+msgid "QCvoicemssg Records Archives"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageRecord.php:450
+msgid "QCvoicemssg Record Attributes"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageRecord.php:451
+msgid "Insert to QCvoicemssg Record"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/VoiceMessageRecord.php:452
+msgid "Uploaded to this QCvoicemssg Record"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CROptionsMetaBox.php:127
+msgid "Voice Message:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CROptionsMetaBox.php:134, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CROptionsMetaBox.php:135
+msgid "Download audio"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CROptionsMetaBox.php:224
+msgid "Transcription:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CROptionsMetaBox.php:227
+msgid "Generate Transcription"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/CROptionsMetaBox.php:234
+msgid "Press \"Generate Transcription\" button to generate or refresh transcription."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/DeveloperBoard.php:122
+msgid "Reset Settings:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/DeveloperBoard.php:135, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Shortcodes.php:283, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Shortcodes.php:349
+msgid "Reset"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/DeveloperBoard.php:136
+msgid "Press to reset all plugin settings to default state."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/PluginActivation.php:78
+msgid "CodeCanyon License"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/PluginActivation.php:88
+msgid "Not Activated"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/PluginActivation.php:83
+msgid "Activated"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/PluginActivation.php:309
+msgid "Plugin Activation"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/PluginActivation.php:315
+msgid "CodeCanyon purchase code"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/PluginActivation.php:316
+msgid "Enter your CodeCanyon purchase code. Allowed only one Purchase Code per website."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/PluginActivation.php:345
+msgid "Activation FAQ'S"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/PluginActivation.php:349
+msgid "Where is my Purchase Code?"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/PluginActivation.php:352
+msgid "The purchase code is a unique combination of characters that confirms that you bought the plugin. You can find your purchase code in "
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/PluginActivation.php:353
+msgid "your account"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/PluginActivation.php:354
+msgid " on the CodeCanyon. Learn more about "
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/PluginActivation.php:355
+msgid "How to find your purchase code"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/PluginActivation.php:356, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/PluginActivation.php:390
+msgid " ."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/PluginActivation.php:362
+msgid "Can I use one Purchase Code on multiple sites?"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/PluginActivation.php:366
+msgid "No, this is prohibited by license terms. You can use the purchase code on only one website at a time. Learn more about "
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/PluginActivation.php:367
+msgid "Envato License"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/PluginActivation.php:368
+msgid " terms. "
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/PluginActivation.php:374
+msgid "What are the benefits of plugin activation?"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/PluginActivation.php:378
+msgid "Activation of the plugin allows you to use all the functionality of the plugin on your site. In addition, in some cases, activating the plugin allows you to access additional features and capabilities of the plugin. Also, using an authored version of the plugin, you can be sure that you will not violate the license."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/PluginActivation.php:384
+msgid "What should I do if my Purchase Code does not work?"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/PluginActivation.php:388
+msgid "There are several reasons why the purchase code may not work on your site. Learn more why your "
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/PluginActivation.php:389
+msgid "Purchase Code is Not Working"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/PluginHelper.php:124, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/PluginHelper.php:124, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:526
+msgid "Settings"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/PluginHelper.php:125, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/PluginHelper.php:125, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:291
+msgid "Documentation"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/PluginHelper.php:126, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/PluginHelper.php:126
+msgid "Plugins"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/PluginHelper.php:147
+msgid "Rate this plugin:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/PluginUpdater.php:351
+msgid "Please visit the plugin page on the Envato market to "
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/PluginUpdater.php:353
+msgid "download "
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/PluginUpdater.php:355
+msgid "the latest version."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:74
+msgid "Operating System"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:75
+msgid "Software"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:76
+msgid "MySQL version"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:77
+msgid "PHP Version"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:78
+msgid "Write Permissions"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:79
+msgid "ZIP Installed"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:80
+msgid "cURL Installed"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:81
+msgid "DOM Installed"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:82
+msgid "XML Installed"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:85
+msgid "Fileinfo Installed"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:86
+msgid "Server Time Sync"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:152
+msgid "We recommend to use php 5.6 or higher"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:179, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:204, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:230, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:256, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:282, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:308, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:334, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:481, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:514, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:524, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:543, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:571
+msgid "YES"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:179, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:204, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:230, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:256, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:282, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:308, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:334, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:481, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:514, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:524, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:543, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:571
+msgid "NO"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:206
+msgid "You must enable CURL (Client URL Library) in PHP. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:232
+msgid "You must enable DOM extension (Document Object Model) in PHP. It's used for HTML processing. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:258
+msgid "You must enable fileinfo extension (File Information) in PHP. It's used for audio files processing. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:284
+msgid "You must enable XML extension in PHP. It's used for XML processing. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:310
+msgid "You need to enable allow_url_fopen directive in PHP. It's used for download updates and other data from our server. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:336
+msgid "You must enable BCMath extension (Arbitrary Precision Mathematics) in PHP. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:383
+msgid "WordPress root directory"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:391
+msgid "WordPress root uploads directory"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:397
+msgid "QCvoicemssg uploads directory"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:403
+msgid ".htaccess file"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:418
+msgid "All right"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:414
+msgid "There are some writing permissions issues with the following directories/files:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:483
+msgid "You must enable mbstring extension (Multibyte String) in PHP. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:516, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:526, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:545
+msgid "Failed to check time synchronization on your server. Your server's clock must be in sync with network time protocol - NTP."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/ServerReporter.php:573
+msgid "Your server's clock is not in sync with network time protocol - NTP. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:121
+msgid "ver."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:125
+msgid "Save changes"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:148
+msgid "Plugin settings"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:197
+msgid "General"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:207, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:577
+msgid "Modal Popup"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:212
+msgid "Default Messages"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:217
+msgid "Assignments"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:222, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:597
+msgid "Custom CSS"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:230
+msgid "Activation"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:236
+msgid "Status"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:241
+msgid "Uninstall"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:268
+msgid "Developer"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:287
+msgid "Helpful links"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:297
+msgid "Get help"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:301
+msgid "Rate this plugin"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:307
+msgid "More plugins"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:344
+msgid "Max Duration:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:345
+msgid "Accent Color:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:346
+msgid "Show Download Link:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:347
+msgid "Download Link Text:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:349
+msgid "Speech Recognition:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:355
+msgid "API Key File:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:357
+msgid "Language:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:358
+msgid "Punctuation:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:382
+msgid "Show Floating Button:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:383
+msgid "Form to show:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:384
+msgid "Position:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:385
+msgid "Caption:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:386
+msgid "Icon:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:387
+msgid "Icon Position:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:388
+msgid "Icon/Caption size:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:389
+msgid "Margin:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:390
+msgid "Padding:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:391
+msgid "Border Radius:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:392
+msgid "Icon/Caption Color:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:393
+msgid "Icon/Caption Hover Color:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:394, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:421
+msgid "Background Color:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:395
+msgid "Background Hover Color:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:396
+msgid "Entrance Timeout:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:397
+msgid "Entrance Animation:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:398
+msgid "Hover Animation:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:420
+msgid "Overlay Color:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:422
+msgid "Border radius:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:423
+msgid "Animation:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:447
+msgid "Speak Now:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:448
+msgid "Allow Access:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:449
+msgid "Access error:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:450
+msgid "Reset recording:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:451
+msgid "Send recording:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:452
+msgid "Sending error:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:453
+msgid "\"Thank you\" message:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:525, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:565
+msgid "QCvoicemssg Settings"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:621
+msgid "Developer Board"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:615
+msgid "Uninstall Settings"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:610
+msgid "System Requirements"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:590
+msgid "Assignments Settings"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:584
+msgid "These are default messages that will be used to create new forms. Changing the settings on this page will not change the settings for existing forms."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:658
+msgid "Download record"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:669
+msgid "Start recording"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:686
+msgid "We would love to hear from you!"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:686
+msgid "Please record your message."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:687
+msgid "Record, Listen, Send"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:688
+msgid "Speak now"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:689
+msgid "Allow access to your microphone"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:689
+msgid "Click \"Allow\" in the permission dialog. It usually appears under the address bar in the upper left side of the window. We respect your privacy."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:690
+msgid "Microphone access error"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:690
+msgid "It seems your microphone is disabled in the browser settings. Please go to your browser settings and enable access to your microphone."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:691
+msgid "Reset recording"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:691
+msgid "Are you sure you want to start a new recording? Your current recording will be deleted."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:692
+msgid "Send your recording"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:693
+msgid "Oops, something went wrong"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:693
+msgid "Error occurred during uploading your audio. Please click the Retry button to try again."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Settings.php:694
+msgid "Thank you"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:53
+msgid "Download Link Text"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:54
+msgid "Text for download link."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:74
+msgid "Show Download Link"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:75
+msgid "Show download link to audio on frontend."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:109
+msgid "This functionality requires PHP 7 or higher."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:97
+msgid "Enable Speech Recognition"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:98
+msgid "Convert audio to text by applying powerful neural network models."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:141
+msgid "API Key"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:151
+msgid "Drop Key file here or click to upload."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:148
+msgid "API Key file exist"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:149
+msgid "Drop Key file here or click to upload"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:161
+msgid "Drag and drop or click on the form to add API key."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:156
+msgid "Drag and drop or click on the form to replace API key. |"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:157
+msgid "Reset API Key"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:182
+msgid "Afrikaans (Suid-Afrika)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:183
+msgid "አማርኛ (ኢትዮጵያ)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:184
+msgid "Հայ (Հայաստան)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:185
+msgid "Azərbaycan (Azərbaycan)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:186
+msgid "Bahasa Indonesia (Indonesia)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:187
+msgid "Bahasa Melayu (Malaysia)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:188
+msgid "বাংলা (বাংলাদেশ)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:189
+msgid "বাংলা (ভারত)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:190
+msgid "Català (Espanya)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:191
+msgid "Čeština (Česká republika)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:192
+msgid "Dansk (Danmark)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:193
+msgid "Deutsch (Deutschland)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:194
+msgid "English (Australia)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:195
+msgid "English (Canada)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:196
+msgid "English (Ghana)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:197
+msgid "English (Great Britain)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:198
+msgid "English (India)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:199
+msgid "English (Ireland)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:200
+msgid "English (Kenya)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:201
+msgid "English (New Zealand)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:202
+msgid "English (Nigeria)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:203
+msgid "English (Philippines)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:204
+msgid "English (Singapore)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:205
+msgid "English (South Africa)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:206
+msgid "English (Tanzania)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:207
+msgid "English (United States)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:208
+msgid "Español (Argentina)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:209
+msgid "Español (Bolivia)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:210
+msgid "Español (Chile)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:211
+msgid "Español (Colombia)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:212
+msgid "Español (Costa Rica)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:213
+msgid "Español (Ecuador)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:214
+msgid "Español (El Salvador)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:215
+msgid "Español (España)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:216
+msgid "Español (Estados Unidos)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:217
+msgid "Español (Guatemala)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:218
+msgid "Español (Honduras)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:219
+msgid "Español (México)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:220
+msgid "Español (Nicaragua)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:221
+msgid "Español (Panamá)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:222
+msgid "Español (Paraguay)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:223
+msgid "Español (Perú)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:224
+msgid "Español (Puerto Rico)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:225
+msgid "Español (República Dominicana)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:226
+msgid "Español (Uruguay)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:227
+msgid "Español (Venezuela)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:228
+msgid "Euskara (Espainia)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:229
+msgid "Filipino (Pilipinas)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:230
+msgid "Français (Canada)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:231
+msgid "Français (France)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:232
+msgid "Galego (España)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:233
+msgid "ქართული (საქართველო)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:234
+msgid "ગુજરાતી (ભારત)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:235
+msgid "Hrvatski (Hrvatska)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:236
+msgid "IsiZulu (Ningizimu Afrika)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:237
+msgid "Íslenska (Ísland)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:238
+msgid "Italiano (Italia)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:239
+msgid "Jawa (Indonesia)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:240
+msgid "ಕನ್ನಡ (ಭಾರತ)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:241
+msgid "ភាសាខ្មែរ (កម្ពុជា)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:242
+msgid "ລາວ (ລາວ)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:243
+msgid "Latviešu (latviešu)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:244
+msgid "Lietuvių (Lietuva)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:245
+msgid "Magyar (Magyarország)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:246
+msgid "മലയാളം (ഇന്ത്യ)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:247
+msgid "मराठी (भारत)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:248
+msgid "Nederlands (Nederland)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:249
+msgid "नेपाली (नेपाल)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:250
+msgid "Norsk bokmål (Norge)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:251
+msgid "Polski (Polska)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:252
+msgid "Português (Brasil)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:253
+msgid "Português (Portugal)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:254
+msgid "Română (România)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:255
+msgid "සිංහල (ශ්රී ලංකාව)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:256
+msgid "Slovenčina (Slovensko)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:257
+msgid "Slovenščina (Slovenija)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:258
+msgid "Urang (Indonesia)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:259
+msgid "Swahili (Tanzania)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:260
+msgid "Swahili (Kenya)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:261
+msgid "Suomi (Suomi)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:262
+msgid "Svenska (Sverige)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:263
+msgid "தமிழ் (இந்தியா)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:264
+msgid "தமிழ் (சிங்கப்பூர்)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:265
+msgid "தமிழ் (இலங்கை)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:266
+msgid "தமிழ் (மலேசியா)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:267
+msgid "తెలుగు (భారతదేశం)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:268
+msgid "Tiếng Việt (Việt Nam)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:269
+msgid "Türkçe (Türkiye)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:270
+msgid "اردو (پاکستان)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:271
+msgid "اردو (بھارت)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:272
+msgid "Ελληνικά (Ελλάδα)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:273
+msgid "Български (България)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:274
+msgid "Русский (Россия)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:275
+msgid "Српски (Србија)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:276
+msgid "Українська (Україна)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:277
+msgid "עברית (ישראל)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:278
+msgid "العربية (إسرائيل)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:279
+msgid "العربية (الأردن)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:280
+msgid "العربية (الإمارات)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:281
+msgid "العربية (البحرين)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:282
+msgid "العربية (الجزائر)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:283
+msgid "العربية (السعودية)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:284
+msgid "العربية (العراق)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:285
+msgid "العربية (الكويت)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:286
+msgid "العربية (المغرب)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:287
+msgid "العربية (تونس)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:288
+msgid "العربية (عُمان)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:289
+msgid "العربية (فلسطين)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:290
+msgid "العربية (قطر)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:291
+msgid "العربية (لبنان)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:292
+msgid "العربية (مصر)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:293
+msgid "فارسی (ایران)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:294
+msgid "हिन्दी (भारत)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:295
+msgid "ไทย (ประเทศไทย)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:296
+msgid "한국어 (대한민국)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:297
+msgid "國語 (台灣)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:298
+msgid "廣東話 (香港)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:299
+msgid "日本語（日本）"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:300
+msgid "普通話 (香港)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:301
+msgid "普通话 (中国大陆)"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:308, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/WordPressReporter.php:83
+msgid "Language"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:309
+msgid "Select Language to convert audio to text."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:326
+msgid "Punctuation"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:327
+msgid "Accurately punctuates transcriptions (e.g., commas, question marks) with machine learning."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:347
+msgid "Accent Color"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:348
+msgid "Select accent color"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:372, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:556, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:913
+msgid "Border Radius"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:373
+msgid "Max recording duration: "
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:375
+msgid " seconds. Set 0 to unlimited record time."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:396
+msgid "Floating button for all pages"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:444
+msgid "No forms found. First create a "
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:448
+msgid "here."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:435
+msgid "Select QCvoicemssg Form to show by Floating Button click."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:465
+msgid "Top Left"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:466
+msgid "Top Right"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:467
+msgid "Left Center"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:468
+msgid "Right Center"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:469
+msgid "Bottom Left"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:470
+msgid "Bottom Center"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:471
+msgid "Bottom Right"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:478
+msgid "Button Position"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:479
+msgid "Select a place on the page to display Floating Button."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:557, wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:914
+msgid "Border radius: "
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:637
+msgid "Button caption"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:750
+msgid "Select button hover background color"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:774
+msgid "Entrance Timeout"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:775
+msgid "Entrance Timeout: "
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:777
+msgid " seconds"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:811
+msgid "Entrance animation"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:812
+msgid "Button Entrance animation"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:866
+msgid "Overlay Color"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:867
+msgid "Select modal overlay background-color"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:889
+msgid "Select modal background-color"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:942
+msgid "Slide to right"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:943
+msgid "Slide to left"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:944
+msgid "Slide to top"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:945
+msgid "Slide to bottom"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:954
+msgid "Animation"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:955
+msgid "Modal entrance animation"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:1101
+msgid "Add custom CSS here."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:1122
+msgid "Settings saved!"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:1137
+msgid "Invalid purchase code."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SettingsFields.php:1132
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Shortcodes.php:239
+msgid "Start a New Message"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Shortcodes.php:282
+msgid "Send"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Shortcodes.php:350
+msgid "Resume"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Shortcodes.php:380
+msgid "Canvas not available."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Shortcodes.php:384
+msgid "Stop"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Shortcodes.php:385
+msgid "Pause"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Shortcodes.php:405
+msgid "Try again"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Shortcodes.php:667
+msgid "Max duration"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/Shortcodes.php:669
+msgid "seconds"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/StatusTab.php:172
+msgid "Some data will be sent to our server to verify purchase and to ensure that a plugin is compatible with your install. We will never collect any confidential data. All data is stored anonymously."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SvgHelper.php:211
+msgid "The uploaded %s file is not supported. Please upload a valid SVG file"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SvgHelper.php:217
+msgid "SVG file is not allowed for security reasons"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/SvgHelper.php:223
+msgid "Invalid SVG Format, file not uploaded for security reasons"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/UI.php:435
+msgid "Icon Library"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/UI.php:436
+msgid "Upload SVG"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/UninstallTab.php:77
+msgid "Removal settings:"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/UninstallTab.php:101
+msgid "Delete plugin only"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/UninstallTab.php:102
+msgid "Delete plugin and settings"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/UninstallTab.php:103
+msgid "Delete plugin, settings and data"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/UninstallTab.php:107
+msgid "Choose which data to delete upon using the \"Delete\" action in the \"Plugins\" admin page."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/UninstallTab.php:113
+msgid "Delete plugin"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/WordPressReporter.php:74
+msgid "Version"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/WordPressReporter.php:75
+msgid "Site URL"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/WordPressReporter.php:76
+msgid "Home URL"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/WordPressReporter.php:77
+msgid "Home Path"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/WordPressReporter.php:78
+msgid "Plugin Path"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/WordPressReporter.php:79
+msgid "WP Multisite"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/WordPressReporter.php:80
+msgid "Max Upload Size"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/WordPressReporter.php:81
+msgid "Memory limit"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/WordPressReporter.php:82
+msgid "Permalink Structure"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/WordPressReporter.php:84
+msgid "Timezone"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/WordPressReporter.php:85
+msgid "Admin Email"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/WordPressReporter.php:86
+msgid "Debug Mode"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/WordPressReporter.php:153
+msgid "We recommend setting memory to at least 64M. For more information, ask your hosting provider."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/WordPressReporter.php:197
+msgid "Yes"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/WordPressReporter.php:197
+msgid "No"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/WordPressReporter.php:303
+msgid "Plain"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/WordPressReporter.php:412
+msgid "Active"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/QuantumCloud/QCvoicemssg/WordPressReporter.php:412
+msgid "Inactive"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/notification/src/classes/Defaults/Trigger/QCvoicemssg/ContacterAddedTrigger.php:15
+msgid "QCvoicemssg Record Added"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/notification/src/classes/Defaults/Trigger/QCvoicemssg/ContacterAddedTrigger.php:23
+msgid "Fires when a new QCvoicemssg Record submitted."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/notification/src/classes/Defaults/Trigger/QCvoicemssg/ContacterAddedTrigger.php:42
+msgid "Record URL"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/notification/src/classes/Defaults/Trigger/QCvoicemssg/ContacterAddedTrigger.php:64, wp-content/plugins/wpvoicemessage/src/notification/src/classes/Defaults/Trigger/QCvoicemssg/ContacterRemovedTrigger.php:50
+msgid "Record title"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/notification/src/classes/Defaults/Trigger/QCvoicemssg/ContacterAddedTrigger.php:74
+msgid "Audio URL"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/notification/src/classes/Defaults/Trigger/QCvoicemssg/ContacterRemovedTrigger.php:14
+msgid "QCvoicemssg Record Removed"
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/notification/src/classes/Defaults/Trigger/QCvoicemssg/ContacterRemovedTrigger.php:22
+msgid "Fires when a new QCvoicemssg Record deleted."
+msgstr ""
+
+#: wp-content/plugins/wpvoicemessage/src/notification/src/classes/Defaults/Trigger/QCvoicemssg/ContacterRemovedTrigger.php:41
+msgid "Record ID"
+msgstr ""

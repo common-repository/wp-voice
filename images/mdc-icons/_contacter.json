@@ -1,0 +1,40 @@
+[
+  {
+    "category_name": "QCvoicemssg",
+    "icons": [
+      {
+        "name": "QCvoicemssg",
+        "path": "_voicemssg/wpvoicemessage.svg",
+        "keywords": [
+          "wpvoicemessage,microphone"
+        ]
+      },
+      {
+        "name": "Microphone",
+        "path": "_voicemssg/microphone.svg",
+        "keywords": [
+          "wpvoicemessage,microphone"
+        ]
+      },
+      {
+        "name": "Microphone Outline",
+        "path": "_voicemssg/microphone-outline.svg",
+        "keywords": [
+          "wpvoicemessage,microphone"
+        ]
+      },{
+        "name": "Voice Mail",
+        "path": "_voicemssg/voice-mail.svg",
+        "keywords": [
+          "wpvoicemessage,voice,mail"
+        ]
+      },{
+        "name": "Waves",
+        "path": "_voicemssg/waves.svg",
+        "keywords": [
+          "wpvoicemessage,waves"
+        ]
+      }
+    ]
+  }
+]
